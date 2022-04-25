@@ -11,3 +11,5 @@
   Fire: She does not even wait for the wind to die before raising the flames on the last of the torches, high enough to scorch the mural of Queen Elo, the fire breather, where she stands depicted on her gilded brage, burning an attacking fleet of mainland ships to the bottom of Bardon Harbor.
   
   In the folder Lightning Spell is included all three spells.
+  
+  When testing the wind spell please turn on the second camera and turn off the first main camera.
